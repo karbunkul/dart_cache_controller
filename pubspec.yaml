@@ -1,0 +1,19 @@
+name: cache_controller
+description: "cache_controller is a Dart package for managing cached data with expiration control"
+version: 0.9.7-pre
+repository: https://github.com/karbunkul/dart_cache_controller
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+topics:
+  - cache
+
+dependencies:
+  meta: ^1.11.0
+
+dev_dependencies:
+  test: ^1.25.4
+  very_good_analysis: ^5.1.0
+
+
