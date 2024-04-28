@@ -60,4 +60,4 @@ In this example, `CacheController` is used to manage an integer value in the cac
 
 ### Features and bugs
 
-Please file feature requests and bugs at the [issue tracker](https://github.com/karbunkul/cache_controller/issues).
+Please file feature requests and bugs at the [issue tracker](https://github.com/karbunkul/dart_cache_controller/issues).
