@@ -8,7 +8,13 @@ To use this package, add `cache_controller` as a dependency in your `pubspec.yam
 
 ```yaml
 dependencies:
-  cache_controller: ^1.0.0
+  cache_controller: ^0.9.7-pre
+```
+
+or use dart cli
+
+```shell
+dart pub add cache_controller
 ```
 
 Then import the package into your Dart code:
